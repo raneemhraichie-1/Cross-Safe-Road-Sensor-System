@@ -1,8 +1,5 @@
 # Cross-Safe-Road-Sensor-System
 
-[README.docx](https://github.com/user-attachments/files/34110601/README.docx)
-
-# Cross-Safe-Road-Sensor-System
 
 > Cross Safe is a physical computing prototype designed to explore the relationship between coding and sensor technology. The project uses a BBC micro:bit v2, an ultrasonic sensor and LED warning lights to simulate a pedestrian crossing system. When a pedestrian is detected within a specified distance, the system activates a flashing red LED to represent a warning to approaching drivers.
 
